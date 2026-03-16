@@ -1,1 +1,1 @@
-I am a student, currently learning computer science.
+> student learning computer science 
